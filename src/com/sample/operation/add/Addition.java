@@ -1,5 +1,5 @@
 package com.sample.operation.add;
-import com.variables.Variables;
+import com.sample.variables.Variables;
 
 public class Addition 
 {

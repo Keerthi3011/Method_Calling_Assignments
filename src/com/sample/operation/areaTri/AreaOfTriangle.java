@@ -2,7 +2,7 @@ package com.sample.operation.areaTri;
 //import com.sample.operation.mul.Multiplication;
 //import com.sample.operation.div.Division;
 
-import com.variables.Variables;
+import com.sample.variables.Variables;
 
 public class AreaOfTriangle 
 {

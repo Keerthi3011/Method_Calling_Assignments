@@ -1,6 +1,6 @@
 package com.sample.operation.mul;
 
-import com.variables.Variables;
+import com.sample.variables.Variables;
 
 public class Multiplication 
 {

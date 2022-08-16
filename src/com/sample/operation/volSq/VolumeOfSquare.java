@@ -1,6 +1,6 @@
 package com.sample.operation.volSq;
 
-import com.variables.Variables;
+import com.sample.variables.Variables;
 
 public class VolumeOfSquare 
 {

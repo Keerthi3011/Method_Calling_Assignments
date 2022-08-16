@@ -1,6 +1,6 @@
 package com.sample.operation.volRec;
 
-import com.variables.Variables;
+import com.sample.variables.Variables;
 
 public class VolumeOfRectangle 
 {

@@ -1,6 +1,6 @@
 package com.sample.operation.areaSq;
 
-import com.variables.Variables;
+import com.sample.variables.Variables;
 
 public class AreaOfSquare 
 {

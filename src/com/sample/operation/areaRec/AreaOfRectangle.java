@@ -1,7 +1,7 @@
 package com.sample.operation.areaRec;
 //import com.sample.operation.mul.Multiplication;
 
-import com.variables.Variables;
+import com.sample.variables.Variables;
 
 public class AreaOfRectangle 
 {
